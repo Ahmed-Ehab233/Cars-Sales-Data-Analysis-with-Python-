@@ -2,6 +2,12 @@
 This is my first python data analysis project. I analyzed a cars sales dataset.
 This dataset contained cars company data like total sales and revenue, customers data like Annual income, cars manufacturing data like body style, model and engine, dealers data like total sales and revenue it also contains sales region data
 
+In This Project I used : 
+1. Pandas
+2. Numpy
+3. Matplotlib
+4. Seaborn
+
 My Project steps :
 1. first of all I imported the dataset and overview 
 2. Data cleaning like checking missing values and duplicates
